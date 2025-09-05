@@ -1,0 +1,14 @@
+﻿double totalBurgerCost = 0.0;
+double totalToppingsCost= 0.0;
+const double BURGER_COST= 10;
+const double TOPPING_COST= 0.5;
+const double TIP_EXPENSE= 0.2;
+const double SALES_TAX= 0.10;
+System.Console.WriteLine("How many burgers do you want");
+int numberOfBurgers= int.Parse(Console.ReadLine());
+System.Console.WriteLine("How many toppings do you want");
+int numberOfToppings= int.Parse(Console.ReadLine());
+totalBurgerCost = BURGER_COST * numberOfBurgers;
+totalToppingsCost = TOPPING_COST * numberOfToppings;
+double totalOrderCost = (1 + TIP_EXPENSE) * (totalBurgerCost + totalToppingsCost) + (numberOfBurgers * SALES_TAX);
+Console.WriteLine(totalOrderCost);
