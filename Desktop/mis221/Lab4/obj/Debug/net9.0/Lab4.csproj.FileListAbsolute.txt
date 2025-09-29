@@ -1,0 +1,15 @@
+/Users/jacksullivan/Desktop/mis221/Lab4/bin/Debug/net9.0/Lab4
+/Users/jacksullivan/Desktop/mis221/Lab4/bin/Debug/net9.0/Lab4.deps.json
+/Users/jacksullivan/Desktop/mis221/Lab4/bin/Debug/net9.0/Lab4.runtimeconfig.json
+/Users/jacksullivan/Desktop/mis221/Lab4/bin/Debug/net9.0/Lab4.dll
+/Users/jacksullivan/Desktop/mis221/Lab4/bin/Debug/net9.0/Lab4.pdb
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.AssemblyInfoInputs.cache
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.AssemblyInfo.cs
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.sourcelink.json
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.dll
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/refint/Lab4.dll
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.pdb
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/Lab4.genruntimeconfig.cache
+/Users/jacksullivan/Desktop/mis221/Lab4/obj/Debug/net9.0/ref/Lab4.dll
